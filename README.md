@@ -1,4 +1,4 @@
----Exercício 1
+Exercício 1\n
  Escreva uma classe chamada Pessoa com os seguintes atributos: nome, idade, implemente também um construtor obrigatório (com os parâmetros: nome e idade) e o método mostraDados() que exibe os dados da pessoa no console.
  Escrever uma outra classe chamada Aluno,  ela deve herdar de Pessoa, tal classe possui as seguintes características:  atributos: número de matrícula, nome do curso que está cursando, um construtor para inicializar os atributos e sobrescrita do método mostraDados() para exibir também o nome do curso.
 O  programa em Java deve: Perguntar ao usuário,  se ele deseja instanciar um aluno ou uma pessoa. Criar o objeto correspondente, e chamar o método mostraDados() para exibir os dados da pessoa ou do aluno. 
